@@ -1,2 +1,1 @@
-# TinDog
-A DATING APP/SITE FOR YOUR DOGS..
+TinDog Starting Files
